@@ -129,7 +129,7 @@ namespace PreMailer.Net
 
 			return new InlineResult(html, _warnings);
 		}
-
+        
 		/// <summary>
 		/// Function to precompile a style sheet allowing it be be preserved in 
 		/// memory for performance purposes.
